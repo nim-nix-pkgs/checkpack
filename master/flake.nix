@@ -9,7 +9,7 @@
   
   inputs.src-checkpack-master.flake = false;
   inputs.src-checkpack-master.owner = "EchoPouet";
-  inputs.src-checkpack-master.ref   = "refs/heads/master";
+  inputs.src-checkpack-master.ref   = "master";
   inputs.src-checkpack-master.repo  = "checkpack";
   inputs.src-checkpack-master.type  = "gitlab";
   
