@@ -11,7 +11,6 @@
   inputs.src-checkpack-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-checkpack-0_1_0.owner = "EchoPouet";
   inputs.src-checkpack-0_1_0.repo  = "checkpack";
-  inputs.src-checkpack-0_1_0.dir   = "";
   inputs.src-checkpack-0_1_0.type  = "gitlab";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

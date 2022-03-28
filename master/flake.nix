@@ -11,7 +11,6 @@
   inputs.src-checkpack-master.ref   = "refs/heads/master";
   inputs.src-checkpack-master.owner = "EchoPouet";
   inputs.src-checkpack-master.repo  = "checkpack";
-  inputs.src-checkpack-master.dir   = "";
   inputs.src-checkpack-master.type  = "gitlab";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
