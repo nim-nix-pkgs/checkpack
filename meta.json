@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://gitlab.com/EchoPouet/checkpack",
   "refs": [
-    "fatal: unable to access 'https://gitlab.com/EchoPouet/checkpack/': OpenSSL SSL_connect: Connection reset by peer in connection to gitlab.com:443 ",
+    "fatal: unable to access 'https://gitlab.com/EchoPouet/checkpack/': Failed to connect to gitlab.com port 443 after 145629 ms: Connection timed out",
     ""
   ],
   "heads": []
